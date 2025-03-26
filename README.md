@@ -1,5 +1,5 @@
 # fmt-spm
-[![Build](https://github.com/IhorShevchuk/fmt-spm/actions/workflows/buiild.yml/badge.svg)](https://github.com/IhorShevchuk/fmt-spm/actions/workflows/buiild.yml)
+[![Build](https://github.com/IhorShevchuk/fmt-spm/actions/workflows/build.yml/badge.svg)](https://github.com/IhorShevchuk/fmt-spm/actions/workflows/build.yml)
 
 A modern C++ formatting library for Swift Package Manager
 
